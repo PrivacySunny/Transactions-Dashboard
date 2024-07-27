@@ -21,8 +21,7 @@ The project includes the following key dependencies:
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone 
-https://github.com/PrivacySunny/Transactions-Dashboard.git
+git clone https://github.com/PrivacySunny/Transactions-Dashboard.git
 cd client
 npm install
 
